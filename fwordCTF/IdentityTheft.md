@@ -24,4 +24,7 @@ https://pastebin.com/PZvaSjA0
 ```
 
 the hint is a base 64 encoded jpg 
-![hotel]()
+![hotel](hotel.jpg)
+
+With a google reverse search, we can see that this is the Hilton Podgorica Crna Gora.
+Searching for Hilton Podgorica Crna Gora "advisor" "eword"
