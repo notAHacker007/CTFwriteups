@@ -8,5 +8,9 @@ We see that the text file says `If I want to get the password, I'll have to face
 Since the the audio file is a .wav we can open it with sonic visualizer, or [this online tool](https://academo.org/demos/spectrum-analyzer/)
 When we open it up, and play the file, we see
 ![~~python~~](PreLogarithmicScale.png)
+
 but that is quite hard to read, so we put it in logarithmic mode, and we see
+
 ![~~python~~](WithLogarithmicScale.png)
+
+So, the password is python, and if we use steghide on the car picture, we get the flag as flag{py1h0n_1s_c00l}
