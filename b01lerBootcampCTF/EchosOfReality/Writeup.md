@@ -7,4 +7,4 @@ Since this is an audio file, and it sounds weird, the spectogram is a good place
 
 Sonic visualizer or [this online tool](https://academo.org/demos/spectrum-analyzer/) can be used to look at the spectogram.
 
-Putting in the file and hitting play shows this ![](image1.png) ad ![image2.png)
+Putting in the file and hitting play shows this ![](image1.png) and ![](image2.png)
